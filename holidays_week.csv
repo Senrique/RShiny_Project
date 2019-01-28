@@ -1,0 +1,716 @@
+ds,holiday
+2014-01-10,January
+2014-01-17,January
+2014-01-24,January
+2014-01-31,January
+2014-02-07,February
+2014-02-14,February
+2014-02-21,February
+2014-02-28,February
+2014-03-07,March
+2014-03-14,March
+2014-03-21,March
+2014-03-28,March
+2014-04-04,April
+2014-04-11,April
+2014-04-18,April
+2014-04-25,April
+2014-05-02,May
+2014-05-09,May
+2014-05-16,May
+2014-05-23,May
+2014-05-30,May
+2014-06-06,June
+2014-06-13,June
+2014-06-20,June
+2014-06-27,June
+2014-07-04,July
+2014-07-11,July
+2014-07-18,July
+2014-07-25,July
+2014-08-01,August
+2014-08-08,August
+2014-08-15,August
+2014-08-22,August
+2014-08-29,August
+2014-09-05,September
+2014-09-12,September
+2014-09-19,September
+2014-09-26,September
+2014-10-03,October
+2014-10-10,October
+2014-10-17,October
+2014-10-24,October
+2014-10-31,October
+2014-11-07,November
+2014-11-14,November
+2014-11-21,November
+2014-11-28,November
+2014-12-05,December
+2014-12-12,December
+2014-12-19,December
+2014-12-26,December
+2015-01-02,January
+2015-01-09,January
+2015-01-16,January
+2015-01-23,January
+2015-01-30,January
+2015-02-06,February
+2015-02-13,February
+2015-02-20,February
+2015-02-27,February
+2015-03-06,March
+2015-03-13,March
+2015-03-20,March
+2015-03-27,March
+2015-04-03,April
+2015-04-10,April
+2015-04-17,April
+2015-04-24,April
+2015-05-01,May
+2015-05-08,May
+2015-05-15,May
+2015-05-22,May
+2015-05-29,May
+2015-06-05,June
+2015-06-12,June
+2015-06-19,June
+2015-06-26,June
+2015-07-03,July
+2015-07-10,July
+2015-07-17,July
+2015-07-24,July
+2015-07-31,July
+2015-08-07,August
+2015-08-14,August
+2015-08-21,August
+2015-08-28,August
+2015-09-04,September
+2015-09-11,September
+2015-09-18,September
+2015-09-25,September
+2015-10-02,October
+2015-10-09,October
+2015-10-16,October
+2015-10-23,October
+2015-10-30,October
+2015-11-06,November
+2015-11-13,November
+2015-11-20,November
+2015-11-27,November
+2015-12-04,December
+2015-12-11,December
+2015-12-18,December
+2015-12-25,December
+2016-01-01,January
+2016-01-08,January
+2016-01-15,January
+2016-01-22,January
+2016-01-29,January
+2016-02-05,February
+2016-02-12,February
+2016-02-19,February
+2016-02-26,February
+2016-03-04,March
+2016-03-11,March
+2016-03-18,March
+2016-03-25,March
+2016-04-01,April
+2016-04-08,April
+2016-04-15,April
+2016-04-22,April
+2016-04-29,April
+2016-05-06,May
+2016-05-13,May
+2016-05-20,May
+2016-05-27,May
+2016-06-03,June
+2016-06-10,June
+2016-06-17,June
+2016-06-24,June
+2016-07-01,July
+2016-07-08,July
+2016-07-15,July
+2016-07-22,July
+2016-07-29,July
+2016-08-05,August
+2016-08-12,August
+2016-08-19,August
+2016-08-26,August
+2016-09-02,September
+2016-09-09,September
+2016-09-16,September
+2016-09-23,September
+2016-09-30,September
+2016-10-07,October
+2016-10-14,October
+2016-10-21,October
+2016-10-28,October
+2016-11-04,November
+2016-11-11,November
+2016-11-18,November
+2016-11-25,November
+2016-12-02,December
+2016-12-09,December
+2016-12-16,December
+2016-12-23,December
+2016-12-30,December
+2017-01-06,January
+2017-01-13,January
+2017-01-20,January
+2017-01-27,January
+2017-02-03,February
+2017-02-10,February
+2017-02-17,February
+2017-02-24,February
+2017-03-03,March
+2017-03-10,March
+2017-03-17,March
+2017-03-24,March
+2017-03-31,March
+2017-04-07,April
+2017-04-14,April
+2017-04-21,April
+2017-04-28,April
+2017-05-05,May
+2017-05-12,May
+2017-05-19,May
+2017-05-26,May
+2017-06-02,June
+2017-06-09,June
+2017-06-16,June
+2017-06-23,June
+2017-06-30,June
+2017-07-07,July
+2017-07-14,July
+2017-07-21,July
+2017-07-28,July
+2014-01-10,Week 2 (Year)
+2014-01-17,Week 3 (Year)
+2014-01-24,Week 4 (Year)
+2014-01-31,Week 5 (Year)
+2014-02-07,Week 6 (Year)
+2014-02-14,Week 7 (Year)
+2014-02-21,Week 8 (Year)
+2014-02-28,Week 9 (Year)
+2014-03-07,Week 10 (Year)
+2014-03-14,Week 11 (Year)
+2014-03-21,Week 12 (Year)
+2014-03-28,Week 13 (Year)
+2014-04-04,Week 14 (Year)
+2014-04-11,Week 15 (Year)
+2014-04-18,Week 16 (Year)
+2014-04-25,Week 17 (Year)
+2014-05-02,Week 18 (Year)
+2014-05-09,Week 19 (Year)
+2014-05-16,Week 20 (Year)
+2014-05-23,Week 21 (Year)
+2014-05-30,Week 22 (Year)
+2014-06-06,Week 23 (Year)
+2014-06-13,Week 24 (Year)
+2014-06-20,Week 25 (Year)
+2014-06-27,Week 26 (Year)
+2014-07-04,Week 27 (Year)
+2014-07-11,Week 28 (Year)
+2014-07-18,Week 29 (Year)
+2014-07-25,Week 30 (Year)
+2014-08-01,Week 31 (Year)
+2014-08-08,Week 32 (Year)
+2014-08-15,Week 33 (Year)
+2014-08-22,Week 34 (Year)
+2014-08-29,Week 35 (Year)
+2014-09-05,Week 36 (Year)
+2014-09-12,Week 37 (Year)
+2014-09-19,Week 38 (Year)
+2014-09-26,Week 39 (Year)
+2014-10-03,Week 40 (Year)
+2014-10-10,Week 41 (Year)
+2014-10-17,Week 42 (Year)
+2014-10-24,Week 43 (Year)
+2014-10-31,Week 44 (Year)
+2014-11-07,Week 45 (Year)
+2014-11-14,Week 46 (Year)
+2014-11-21,Week 47 (Year)
+2014-11-28,Week 48 (Year)
+2014-12-05,Week 49 (Year)
+2014-12-12,Week 50 (Year)
+2014-12-19,Week 51 (Year)
+2014-12-26,Week 52 (Year)
+2015-01-02,Week 1 (Year)
+2015-01-09,Week 2 (Year)
+2015-01-16,Week 3 (Year)
+2015-01-23,Week 4 (Year)
+2015-01-30,Week 5 (Year)
+2015-02-06,Week 6 (Year)
+2015-02-13,Week 7 (Year)
+2015-02-20,Week 8 (Year)
+2015-02-27,Week 9 (Year)
+2015-03-06,Week 10 (Year)
+2015-03-13,Week 11 (Year)
+2015-03-20,Week 12 (Year)
+2015-03-27,Week 13 (Year)
+2015-04-03,Week 14 (Year)
+2015-04-10,Week 15 (Year)
+2015-04-17,Week 16 (Year)
+2015-04-24,Week 17 (Year)
+2015-05-01,Week 18 (Year)
+2015-05-08,Week 19 (Year)
+2015-05-15,Week 20 (Year)
+2015-05-22,Week 21 (Year)
+2015-05-29,Week 22 (Year)
+2015-06-05,Week 23 (Year)
+2015-06-12,Week 24 (Year)
+2015-06-19,Week 25 (Year)
+2015-06-26,Week 26 (Year)
+2015-07-03,Week 27 (Year)
+2015-07-10,Week 28 (Year)
+2015-07-17,Week 29 (Year)
+2015-07-24,Week 30 (Year)
+2015-07-31,Week 31 (Year)
+2015-08-07,Week 32 (Year)
+2015-08-14,Week 33 (Year)
+2015-08-21,Week 34 (Year)
+2015-08-28,Week 35 (Year)
+2015-09-04,Week 36 (Year)
+2015-09-11,Week 37 (Year)
+2015-09-18,Week 38 (Year)
+2015-09-25,Week 39 (Year)
+2015-10-02,Week 40 (Year)
+2015-10-09,Week 41 (Year)
+2015-10-16,Week 42 (Year)
+2015-10-23,Week 43 (Year)
+2015-10-30,Week 44 (Year)
+2015-11-06,Week 45 (Year)
+2015-11-13,Week 46 (Year)
+2015-11-20,Week 47 (Year)
+2015-11-27,Week 48 (Year)
+2015-12-04,Week 49 (Year)
+2015-12-11,Week 50 (Year)
+2015-12-18,Week 51 (Year)
+2015-12-25,Week 52 (Year)
+2016-01-01,Week 1 (Year)
+2016-01-08,Week 2 (Year)
+2016-01-15,Week 3 (Year)
+2016-01-22,Week 4 (Year)
+2016-01-29,Week 5 (Year)
+2016-02-05,Week 6 (Year)
+2016-02-12,Week 7 (Year)
+2016-02-19,Week 8 (Year)
+2016-02-26,Week 9 (Year)
+2016-03-04,Week 10 (Year)
+2016-03-11,Week 11 (Year)
+2016-03-18,Week 12 (Year)
+2016-03-25,Week 13 (Year)
+2016-04-01,Week 14 (Year)
+2016-04-08,Week 15 (Year)
+2016-04-15,Week 16 (Year)
+2016-04-22,Week 17 (Year)
+2016-04-29,Week 18 (Year)
+2016-05-06,Week 19 (Year)
+2016-05-13,Week 20 (Year)
+2016-05-20,Week 21 (Year)
+2016-05-27,Week 22 (Year)
+2016-06-03,Week 23 (Year)
+2016-06-10,Week 24 (Year)
+2016-06-17,Week 25 (Year)
+2016-06-24,Week 26 (Year)
+2016-07-01,Week 27 (Year)
+2016-07-08,Week 28 (Year)
+2016-07-15,Week 29 (Year)
+2016-07-22,Week 30 (Year)
+2016-07-29,Week 31 (Year)
+2016-08-05,Week 32 (Year)
+2016-08-12,Week 33 (Year)
+2016-08-19,Week 34 (Year)
+2016-08-26,Week 35 (Year)
+2016-09-02,Week 36 (Year)
+2016-09-09,Week 37 (Year)
+2016-09-16,Week 38 (Year)
+2016-09-23,Week 39 (Year)
+2016-09-30,Week 40 (Year)
+2016-10-07,Week 41 (Year)
+2016-10-14,Week 42 (Year)
+2016-10-21,Week 43 (Year)
+2016-10-28,Week 44 (Year)
+2016-11-04,Week 45 (Year)
+2016-11-11,Week 46 (Year)
+2016-11-18,Week 47 (Year)
+2016-11-25,Week 48 (Year)
+2016-12-02,Week 49 (Year)
+2016-12-09,Week 50 (Year)
+2016-12-16,Week 51 (Year)
+2016-12-23,Week 52 (Year)
+2016-12-30,Week 53 (Year)
+2017-01-06,Week 1 (Year)
+2017-01-13,Week 2 (Year)
+2017-01-20,Week 3 (Year)
+2017-01-27,Week 4 (Year)
+2017-02-03,Week 5 (Year)
+2017-02-10,Week 6 (Year)
+2017-02-17,Week 7 (Year)
+2017-02-24,Week 8 (Year)
+2017-03-03,Week 9 (Year)
+2017-03-10,Week 10 (Year)
+2017-03-17,Week 11 (Year)
+2017-03-24,Week 12 (Year)
+2017-03-31,Week 13 (Year)
+2017-04-07,Week 14 (Year)
+2017-04-14,Week 15 (Year)
+2017-04-21,Week 16 (Year)
+2017-04-28,Week 17 (Year)
+2017-05-05,Week 18 (Year)
+2017-05-12,Week 19 (Year)
+2017-05-19,Week 20 (Year)
+2017-05-26,Week 21 (Year)
+2017-06-02,Week 22 (Year)
+2017-06-09,Week 23 (Year)
+2017-06-16,Week 24 (Year)
+2017-06-23,Week 25 (Year)
+2017-06-30,Week 26 (Year)
+2017-07-07,Week 27 (Year)
+2017-07-14,Week 28 (Year)
+2017-07-21,Week 29 (Year)
+2017-07-28,Week 30 (Year)
+2014-01-10,Week 2 (Month)
+2014-01-17,Week 3 (Month)
+2014-01-24,Week 4 (Month)
+2014-01-31,Week 5 (Month)
+2014-02-07,Week 1 (Month)
+2014-02-14,Week 2 (Month)
+2014-02-21,Week 3 (Month)
+2014-02-28,Week 4 (Month)
+2014-03-07,Week 1 (Month)
+2014-03-14,Week 2 (Month)
+2014-03-21,Week 3 (Month)
+2014-03-28,Week 4 (Month)
+2014-04-04,Week 1 (Month)
+2014-04-11,Week 2 (Month)
+2014-04-18,Week 3 (Month)
+2014-04-25,Week 4 (Month)
+2014-05-02,Week 1 (Month)
+2014-05-09,Week 2 (Month)
+2014-05-16,Week 3 (Month)
+2014-05-23,Week 4 (Month)
+2014-05-30,Week 5 (Month)
+2014-06-06,Week 1 (Month)
+2014-06-13,Week 2 (Month)
+2014-06-20,Week 3 (Month)
+2014-06-27,Week 4 (Month)
+2014-07-04,Week 1 (Month)
+2014-07-11,Week 2 (Month)
+2014-07-18,Week 3 (Month)
+2014-07-25,Week 4 (Month)
+2014-08-01,Week 1 (Month)
+2014-08-08,Week 2 (Month)
+2014-08-15,Week 3 (Month)
+2014-08-22,Week 4 (Month)
+2014-08-29,Week 5 (Month)
+2014-09-05,Week 1 (Month)
+2014-09-12,Week 2 (Month)
+2014-09-19,Week 3 (Month)
+2014-09-26,Week 4 (Month)
+2014-10-03,Week 1 (Month)
+2014-10-10,Week 2 (Month)
+2014-10-17,Week 3 (Month)
+2014-10-24,Week 4 (Month)
+2014-10-31,Week 5 (Month)
+2014-11-07,Week 1 (Month)
+2014-11-14,Week 2 (Month)
+2014-11-21,Week 3 (Month)
+2014-11-28,Week 4 (Month)
+2014-12-05,Week 1 (Month)
+2014-12-12,Week 2 (Month)
+2014-12-19,Week 3 (Month)
+2014-12-26,Week 4 (Month)
+2015-01-02,Week 1 (Month)
+2015-01-09,Week 2 (Month)
+2015-01-16,Week 3 (Month)
+2015-01-23,Week 4 (Month)
+2015-01-30,Week 5 (Month)
+2015-02-06,Week 1 (Month)
+2015-02-13,Week 2 (Month)
+2015-02-20,Week 3 (Month)
+2015-02-27,Week 4 (Month)
+2015-03-06,Week 1 (Month)
+2015-03-13,Week 2 (Month)
+2015-03-20,Week 3 (Month)
+2015-03-27,Week 4 (Month)
+2015-04-03,Week 1 (Month)
+2015-04-10,Week 2 (Month)
+2015-04-17,Week 3 (Month)
+2015-04-24,Week 4 (Month)
+2015-05-01,Week 1 (Month)
+2015-05-08,Week 2 (Month)
+2015-05-15,Week 3 (Month)
+2015-05-22,Week 4 (Month)
+2015-05-29,Week 5 (Month)
+2015-06-05,Week 1 (Month)
+2015-06-12,Week 2 (Month)
+2015-06-19,Week 3 (Month)
+2015-06-26,Week 4 (Month)
+2015-07-03,Week 1 (Month)
+2015-07-10,Week 2 (Month)
+2015-07-17,Week 3 (Month)
+2015-07-24,Week 4 (Month)
+2015-07-31,Week 5 (Month)
+2015-08-07,Week 1 (Month)
+2015-08-14,Week 2 (Month)
+2015-08-21,Week 3 (Month)
+2015-08-28,Week 4 (Month)
+2015-09-04,Week 1 (Month)
+2015-09-11,Week 2 (Month)
+2015-09-18,Week 3 (Month)
+2015-09-25,Week 4 (Month)
+2015-10-02,Week 1 (Month)
+2015-10-09,Week 2 (Month)
+2015-10-16,Week 3 (Month)
+2015-10-23,Week 4 (Month)
+2015-10-30,Week 5 (Month)
+2015-11-06,Week 1 (Month)
+2015-11-13,Week 2 (Month)
+2015-11-20,Week 3 (Month)
+2015-11-27,Week 4 (Month)
+2015-12-04,Week 1 (Month)
+2015-12-11,Week 2 (Month)
+2015-12-18,Week 3 (Month)
+2015-12-25,Week 4 (Month)
+2016-01-01,Week 1 (Month)
+2016-01-08,Week 2 (Month)
+2016-01-15,Week 3 (Month)
+2016-01-22,Week 4 (Month)
+2016-01-29,Week 5 (Month)
+2016-02-05,Week 1 (Month)
+2016-02-12,Week 2 (Month)
+2016-02-19,Week 3 (Month)
+2016-02-26,Week 4 (Month)
+2016-03-04,Week 1 (Month)
+2016-03-11,Week 2 (Month)
+2016-03-18,Week 3 (Month)
+2016-03-25,Week 4 (Month)
+2016-04-01,Week 5 (Month)
+2016-04-08,Week 1 (Month)
+2016-04-15,Week 2 (Month)
+2016-04-22,Week 3 (Month)
+2016-04-29,Week 4 (Month)
+2016-05-06,Week 1 (Month)
+2016-05-13,Week 2 (Month)
+2016-05-20,Week 3 (Month)
+2016-05-27,Week 4 (Month)
+2016-06-03,Week 1 (Month)
+2016-06-10,Week 2 (Month)
+2016-06-17,Week 3 (Month)
+2016-06-24,Week 4 (Month)
+2016-07-01,Week 5 (Month)
+2016-07-08,Week 1 (Month)
+2016-07-15,Week 2 (Month)
+2016-07-22,Week 3 (Month)
+2016-07-29,Week 4 (Month)
+2016-08-05,Week 1 (Month)
+2016-08-12,Week 2 (Month)
+2016-08-19,Week 3 (Month)
+2016-08-26,Week 4 (Month)
+2016-09-02,Week 5 (Month)
+2016-09-09,Week 1 (Month)
+2016-09-16,Week 2 (Month)
+2016-09-23,Week 3 (Month)
+2016-09-30,Week 4 (Month)
+2016-10-07,Week 1 (Month)
+2016-10-14,Week 2 (Month)
+2016-10-21,Week 3 (Month)
+2016-10-28,Week 4 (Month)
+2016-11-04,Week 1 (Month)
+2016-11-11,Week 2 (Month)
+2016-11-18,Week 3 (Month)
+2016-11-25,Week 4 (Month)
+2016-12-02,Week 5 (Month)
+2016-12-09,Week 1 (Month)
+2016-12-16,Week 2 (Month)
+2016-12-23,Week 3 (Month)
+2016-12-30,Week 4 (Month)
+2017-01-06,Week 1 (Month)
+2017-01-13,Week 2 (Month)
+2017-01-20,Week 3 (Month)
+2017-01-27,Week 4 (Month)
+2017-02-03,Week 1 (Month)
+2017-02-10,Week 2 (Month)
+2017-02-17,Week 3 (Month)
+2017-02-24,Week 4 (Month)
+2017-03-03,Week 1 (Month)
+2017-03-10,Week 2 (Month)
+2017-03-17,Week 3 (Month)
+2017-03-24,Week 4 (Month)
+2017-03-31,Week 5 (Month)
+2017-04-07,Week 1 (Month)
+2017-04-14,Week 2 (Month)
+2017-04-21,Week 3 (Month)
+2017-04-28,Week 4 (Month)
+2017-05-05,Week 1 (Month)
+2017-05-12,Week 2 (Month)
+2017-05-19,Week 3 (Month)
+2017-05-26,Week 4 (Month)
+2017-06-02,Week 5 (Month)
+2017-06-09,Week 1 (Month)
+2017-06-16,Week 2 (Month)
+2017-06-23,Week 3 (Month)
+2017-06-30,Week 4 (Month)
+2017-07-07,Week 1 (Month)
+2017-07-14,Week 2 (Month)
+2017-07-21,Week 3 (Month)
+2017-07-28,Week 4 (Month)
+2014-02-07,First Week
+2014-03-07,First Week
+2014-04-04,First Week
+2014-05-02,First Week
+2014-06-06,First Week
+2014-07-04,First Week
+2014-08-08,First Week
+2014-09-05,First Week
+2014-10-03,First Week
+2014-11-07,First Week
+2014-12-05,First Week
+2015-01-02,First Week
+2015-02-06,First Week
+2015-03-06,First Week
+2015-04-03,First Week
+2015-05-08,First Week
+2015-06-05,First Week
+2015-07-03,First Week
+2015-08-07,First Week
+2015-09-04,First Week
+2015-10-09,First Week
+2015-11-06,First Week
+2015-12-04,First Week
+2016-01-08,First Week
+2016-02-05,First Week
+2016-03-04,First Week
+2016-04-08,First Week
+2016-05-06,First Week
+2016-06-03,First Week
+2016-07-08,First Week
+2016-08-05,First Week
+2016-09-09,First Week
+2016-10-07,First Week
+2016-11-04,First Week
+2016-12-09,First Week
+2017-01-06,First Week
+2017-02-03,First Week
+2017-03-03,First Week
+2017-04-07,First Week
+2017-05-05,First Week
+2017-06-09,First Week
+2017-07-07,First Week
+2014-01-31,Last Week
+2014-02-28,Last Week
+2014-03-28,Last Week
+2014-04-25,Last Week
+2014-05-30,Last Week
+2014-06-27,Last Week
+2014-08-01,Last Week
+2014-08-29,Last Week
+2014-09-26,Last Week
+2014-10-31,Last Week
+2014-11-28,Last Week
+2014-12-26,Last Week
+2015-01-30,Last Week
+2015-02-27,Last Week
+2015-03-27,Last Week
+2015-05-01,Last Week
+2015-05-29,Last Week
+2015-06-26,Last Week
+2015-07-31,Last Week
+2015-08-28,Last Week
+2015-10-02,Last Week
+2015-10-30,Last Week
+2015-11-27,Last Week
+2016-01-01,Last Week
+2016-01-29,Last Week
+2016-02-26,Last Week
+2016-04-01,Last Week
+2016-04-29,Last Week
+2016-05-27,Last Week
+2016-07-01,Last Week
+2016-07-29,Last Week
+2016-09-02,Last Week
+2016-09-30,Last Week
+2016-10-28,Last Week
+2016-12-02,Last Week
+2016-12-30,Last Week
+2017-01-27,Last Week
+2017-02-24,Last Week
+2017-03-31,Last Week
+2017-04-28,Last Week
+2017-06-02,Last Week
+2017-06-30,Last Week
+2017-07-28,Last Week
+2014-01-24,ML King Day
+2014-05-30,Memorial Day
+2014-07-04,Independence Day
+2014-09-05,Labor Day
+2014-11-28,Thanksgiving Day
+2014-12-26,Christmas
+2015-01-02,New Years Day
+2015-01-23,ML King Day
+2015-05-29,Memorial Day
+2015-07-03,Independence Day
+2015-09-11,Labor Day
+2015-11-27,Thanksgiving Day
+2015-12-25,Christmas
+2016-01-01,New Years Day
+2016-01-22,ML King Day
+2016-05-27,Memorial Day
+2016-07-08,Independence Day
+2016-09-09,Labor Day
+2016-11-25,Thanksgiving Day
+2016-12-30,Christmas
+2017-01-06,New Years Day
+2017-01-20,ML King Day
+2017-06-02,Memorial Day
+2017-07-07,Independence Day
+2014-01-17,Pre ML King Day
+2014-05-23,Pre Memorial Day
+2014-06-27,Pre Independence Day
+2014-08-29,Pre Labor Day
+2014-11-21,Pre Thanksgiving Day
+2014-12-19,Pre Christmas
+2014-12-26,Pre New Years Day
+2015-01-16,Pre ML King Day
+2015-05-22,Pre Memorial Day
+2015-06-26,Pre Independence Day
+2015-09-04,Pre Labor Day
+2015-11-20,Pre Thanksgiving Day
+2015-12-18,Pre Christmas
+2015-12-25,Pre New Years Day
+2016-01-15,Pre ML King Day
+2016-05-20,Pre Memorial Day
+2016-07-01,Pre Independence Day
+2016-09-02,Pre Labor Day
+2016-11-18,Pre Thanksgiving Day
+2016-12-23,Pre Christmas
+2016-12-30,Pre New Years Day
+2017-01-13,Pre ML King Day
+2017-05-26,Pre Memorial Day
+2017-06-30,Pre Independence Day
+2014-01-31,Post ML King Day
+2014-06-06,Post Memorial Day
+2014-07-11,Post Independence Day
+2014-09-12,Post Labor Day
+2014-12-05,Post Thanksgiving Day
+2015-01-02,Post Christmas
+2015-01-09,Post New Years Day
+2015-01-30,Post ML King Day
+2015-06-05,Post Memorial Day
+2015-07-10,Post Independence Day
+2015-09-18,Post Labor Day
+2015-12-04,Post Thanksgiving Day
+2016-01-01,Post Christmas
+2016-01-08,Post New Years Day
+2016-01-29,Post ML King Day
+2016-06-03,Post Memorial Day
+2016-07-15,Post Independence Day
+2016-09-16,Post Labor Day
+2016-12-02,Post Thanksgiving Day
+2017-01-06,Post Christmas
+2017-01-13,Post New Years Day
+2017-01-27,Post ML King Day
+2017-06-09,Post Memorial Day
+2017-07-14,Post Independence Day
